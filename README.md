@@ -27,7 +27,9 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Save and submit your website link using the link on the session agenda.
 
 ### Project Extensions
+- [ ] Extension: Add another input for the user to put in the current year and do the math from there so the app always works
 - [ ] Extension: Style your app any way you want.
+
 
 ### Hint
 Having trouble? Make sure you are using the right types of data to do your math by using the console.
