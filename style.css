@@ -1,11 +1,15 @@
 img {
-    width: 500px;
+  width: 500px;
 }
 
 body {
-    background-color: #D5D3D2;
+  background-color: #D5D3D2;
 }
 
 div {
-    text-align: center;
+  text-align: center;
+}
+
+.unusAnnus {
+  width: 500px;
 }
